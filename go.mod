@@ -1,4 +1,4 @@
-module github.com/canhlinh/ytuploader
+module github.com/music13245678/ytbuploader
 
 go 1.13
 
