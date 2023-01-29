@@ -17,7 +17,7 @@ func main() {
 	}
 
 	w := &sync.WaitGroup{}
-	for i := 0; i < 0; i++ {
+	for i := 0; i < 1; i++ {
 		threadNumber := i
 		w.Add(1)
 		go func() {
